@@ -93,6 +93,51 @@ Decidimos guardar todos nuestros datos limpios y listos para utilizar en un .csv
 
 Los resultados que obtuvimos del análisis no coinciden exactamente con los resultados preliminares del Departamento de Finanzas sin embargo tiene, relativamente hablando, una diferencia pequeña. Esta diferencia se le puede atribuir a los datos descartados durante su limpieza e incluso la diferencia podría ser resultado de los problemas que la dicha secretaría tuvo cuando los datos fueron analizados en Excel.
 
+### Contestando a las preguntas
+
+1. ¿Cuánto dinero es acumulado después del pago de este impuesto por año?
+
+| Año Fiscal | Monto Pagado |
+| ------------- | ------------- |
+| 2008  | $1,020,682.00 |
+| 2009  | $1,629,165.00 |
+| 2010  | $803,832.00 |
+| 2011  | $1,957,793.00 |
+| 2012  | $457,897.00 |
+| 2013  | $32,133,460.00 |
+| 2014  | $33,544,159.00 |
+| 2015  | $32,410,505.46 |
+| 2016  | $31,165,153.00 |
+| 2017  | $34,509,941.00 |
+| 2018  | $33,638,920.11 |
+| 2019  | $32,792,367.60 |
+| 2020  | $31,791,033.00 |
+
+2. ¿Cuál es la diferencia de ingresos obtenidos por cada periodo anual?
+
+| Año Fiscal | Diferencia |
+| ------------- | ------------- |
+| 2009  | $608,483.00 |
+| 2010  | -$825,333.00 |
+| 2011  | $1,153,961.00 |
+| 2012  | -$1,499,896.00 |
+| 2013  | $31,675,563.00 |
+| 2014  | $1,410,699.00 |
+| 2015  | -$1,133,653.54 |
+| 2016  | -$1,245,352.46 |
+| 2017  | $3,344,788.00 |
+| 2018  | -$871,020.89 |
+| 2019  | -$846,552.51 |
+| 2020  | -$1,001,334.60 |
+
+3. ¿Cuál es el tipo de placa de cada vehículo?
+
+| Tipo | Placa |
+| ------------- | ------------- |
+| Antiguo  | 18,352 |
+| Discapacidad  | 35,091 |
+| Particular  | 131,199 |
+
 ## Planes a futuro
 
 Presentar la información de una forma más visual, como lo son los gráficos, nos parece importante y algo de los que nos gustaría realizar en un futuro. Además de la proyección de crecimiento o decrecimiento del capital obtenido por las instituciones estatales debido a el pago de la tenencia.
